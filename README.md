@@ -4,7 +4,7 @@ MNext is a token community platform for banks and end users with online and offl
 
 ## How to use
 
-🔦 There are two ways to try out MNext.
+There are two ways to try out MNext.
 
 1. If you have RSK Testnet tokens you can use the address ` 0x3Ad64B7087e39ffa18a9B27ad4dd1B61b7c283d1 ` to try out the smart contract.
 
